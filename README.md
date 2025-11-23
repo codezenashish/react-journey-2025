@@ -11,6 +11,7 @@ Here's a list of the projects in this repository:
 3.  **03-background-changer**: An application that changes the background color.
 4.  **04-passwords-gn**: A password generator application.
 
+
 ## Getting Started
 
 To run any of these projects, navigate to the project's directory and follow the instructions in its `README.md` file (if available). Generally, you will need to:
